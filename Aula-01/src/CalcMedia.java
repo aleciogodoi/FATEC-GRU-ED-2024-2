@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class CalcMedia
 {
 	public static void main(String[] args) {
 	    float media=0, p1=0, p2=0, p3=0;
