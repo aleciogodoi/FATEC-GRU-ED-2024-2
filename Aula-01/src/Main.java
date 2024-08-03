@@ -7,7 +7,6 @@ public class Main
 		System.out.print("Nota P1: ");
 		p1 = sc.nextFloat();
 		
-		
 		System.out.print("Nota P2: ");
 		p2 = sc.nextFloat();
 		
